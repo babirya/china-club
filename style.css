@@ -1,0 +1,262 @@
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+} 
+
+.here{
+    color: rgba(10, 14, 236, 0.87);
+}
+ 
+header{ 
+
+    background-color: #aa381e; 
+    padding: 25px; 
+    border-bottom: 5px solid #365194;
+}  
+       /* hovers*/
+a:hover{
+    color: rgb(6, 197, 6);
+}  
+.green{
+    color: rgb(6, 197, 6);  
+}
+
+.bn:hover{
+    background-color:rgb(6, 197, 6);
+}  
+.red{
+    color: red;
+}
+.h{
+    
+    color: white; 
+    text-align: center; 
+    font-size: 40px;
+}
+header h1{ 
+
+    color: white; 
+    text-align: center; 
+    font-size: 40px;
+} 
+header ul{
+
+    display: inline;  
+    float: right;
+  padding-right:30px ;  
+  padding-top:-20px ;
+  
+
+} 
+header li{
+ list-style: none; 
+ display: inline;  
+ padding: 10px;
+ 
+} 
+header a{ 
+  text-decoration: none;
+  color: white;  
+  font-size: 20px;
+
+}
+#showcase{ 
+
+    background-image:url('./pic/pexels-sabel-blanco-1486577.jpg') ;
+    background-size: cover; 
+    width: 1400px; 
+    height: 800px; 
+    
+    background-repeat:no-repeat;
+    background-position: center;
+}  
+p{
+    color: rgb(37, 34, 34); 
+    font-size: 23px; 
+    font-family: Helvetica (sans-serif); 
+    font: bold; 
+    
+} 
+#pa{
+     font-size: 40px; 
+     padding-top:90px ; 
+     text-shadow: 2px 2px #aa381e;
+} 
+#pa1 p{
+    font-size: 80px; 
+    padding-top:120px ; 
+    font-family: sans-serif; 
+    color: rgb(9, 6, 180);
+     font: bold; 
+   
+} 
+.bn{
+
+    width: 160px;  
+    height: 60px;
+    background-color: #365194 ; 
+  margin-left: 240px;  
+ margin-top:20px ; 
+
+ font: bold; 
+ color: white; 
+ font-size: 40px;
+}
+
+
+
+footer{
+    background-color: #aa381e;
+    color: white; 
+    text-align: center; 
+    padding: 10px;
+}
+#blogs{
+    
+    display: flex;
+}   
+.blo{
+    border: 1px solid white; 
+    float: left; 
+    width: 29.9%;
+     margin: 10px;
+}
+
+.picsa{
+    width: 500px;
+    height: 600px;
+} 
+#social{
+    background-color: rgb(255, 240, 240); 
+    text-align: center;
+} 
+#social a{
+    text-decoration: none; 
+    font-size: 20px;
+    color:#365194 ;
+}
+#social a:hover{
+ 
+    color:red ;
+}
+#social img{
+
+     
+  width:50px ;
+  height:28px ;
+}
+
+
+                    /* join US partnow */ 
+
+                    
+#join{
+  width: 1024 px; 
+  height: 800px; 
+  background-size: cover;
+   background-image: url('./pic/pexels-wolfram-k-745243.jpg'); 
+
+} 
+#join p{
+
+    color: white; 
+    font: bold; 
+    font-size:60px ;  
+    font-family:  Helvetica, sans-serif; 
+    padding-top:220px ;
+
+}
+ #myform{
+padding: 20px; 
+margin-top:20px ;
+ 
+height: 700px;
+width: 50%; 
+ } 
+  #myform div{
+      padding: 15px;
+  }
+ label{
+
+color: rgb(32, 32, 31); 
+font-size: 30px; 
+font: bold; 
+padding-right: 20px;
+
+ } 
+
+.ins{
+   
+    
+    height: 40px; 
+    border: 2px solid black; 
+    border-radius: 10px; 
+    font-size: 20px; 
+    color:black;
+ } 
+ .bns1{
+     
+     width: 85px;  
+     height: 30px;
+      color: white;
+      background-color: rgb(44, 48, 49);
+     font-size: 17px; 
+     border: 5px saddlebrown solid; 
+     border-radius: 3px;
+ } 
+
+ .bns2{
+     
+    width: 80px;  
+    height: 30px;
+     color: white; 
+     background-color: gray;
+     font-size: 13px; 
+     border: 5px saddlebrown solid; 
+     border-radius: 3px;
+} 
+#parent{
+    display: flex; 
+    border-bottom: 10px orange solid;
+} 
+.child{
+    float: left;
+    width: 50%;  
+    height: 900px;
+    
+} 
+.re{
+    background-color: rgb(207, 98, 55);
+    
+} 
+.re p{
+    font-size: 85px;
+}
+.be{
+    background-color: #365194;
+} 
+
+.yellow{
+    background-color: yellow;
+} 
+#end{
+
+    background-image: url('./pic/pexels-rodnae-productions-6691753.jpg'); 
+    background-size: cover; 
+    height: 500px;
+} 
+#end{
+    font-family: helvetica sans-serif; 
+    font-size: 50px; 
+    color: black; 
+    text-align: center; 
+    padding-top: 10px;
+} 
+#bn12{
+  color: black; 
+  background-color: rgb(36, 84, 214); 
+  width: 120px; 
+  font-size: 20px; 
+ margin-left: 580px;
+}
